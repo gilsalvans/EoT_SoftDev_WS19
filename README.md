@@ -10,3 +10,5 @@ End of Term assignment of the course Practice Software Development. <br> <br>
 
 ## Results visualization
 ![Captura](https://user-images.githubusercontent.com/57723380/118104908-056ae280-b3dc-11eb-8c17-3a2467b01d85.JPG)
+<br>
+![tab](https://user-images.githubusercontent.com/57723380/118105634-eae53900-b3dc-11eb-8288-0b4a3ecbc83c.JPG)
